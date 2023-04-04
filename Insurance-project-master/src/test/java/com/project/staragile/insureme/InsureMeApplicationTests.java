@@ -1,4 +1,4 @@
-package com.project.staragile.insureme;
+package com.project.insureme;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
